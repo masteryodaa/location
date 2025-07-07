@@ -3,3 +3,4 @@ uvicorn
 slowapi 
 pydantic
 fastapi-armor
+sqlalchemy
